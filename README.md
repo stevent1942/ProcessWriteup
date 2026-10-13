@@ -31,4 +31,17 @@ Notes to remmeber
 **_Lists_**
 * `* TEXT` will create a dotted list
 * `1. TEXT` will created a numbered lsit
-* You can indent a point by adding a space before adding the `*TEXT`
+* You can indent a point by adding a space before adding the `* TEXT`
+
+### Lesson Summary for HTML
+Notes to Remember
+
+**_Text_**
+* You must put down `<x>` at the start of a line to start that line, and `</x>` to end that line.
+* `<p>TEXX</p>` will create a paragraph
+
+**_Heading_**
+* Headings come in 6 different sizes, from Largest to Smallest
+ * `<h1> </h1>`
+ * `<h2> </h2>`
+ * et

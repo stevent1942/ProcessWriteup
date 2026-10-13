@@ -57,7 +57,7 @@ Notes to Remember
 2.  `<li> something`
 3.  `<li> something`
 4.  `</ol>`
- I couldn't understand why it wasn't working, until I realized that even the `<li>` for the list needs an ending `</li>` as well. So I fixed it by doing this.
+* I couldn't understand why it wasn't working, until I realized that even the `<li>` for the list needs an ending `</li>` as well. So I fixed it by doing this.
 1. `<ol> HEADER `
 2.  `<li> something </li>`
 3.  `<li> something </li>`

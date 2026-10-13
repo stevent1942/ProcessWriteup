@@ -44,4 +44,9 @@ Notes to Remember
 * Headings come in 6 different sizes, from Largest to Smallest
  * `<h1> </h1>`
  * `<h2> </h2>`
- * et
+ * repeat this code, replacing the numeral value with another number up to 6
+
+ **_List_**
+ * To create a Numbered list, you put `<ol> </ol>`
+ * To create a Dotted list, you put `<ul> </ul>`
+ * To add actual points or to use the list, you put `<li> </li>` In between `<ol>` and `</ol>` or `<ul>` and `</ul>`

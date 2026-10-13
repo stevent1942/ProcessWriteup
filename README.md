@@ -51,6 +51,13 @@ Notes to Remember
  * To create a Dotted list, you put `<ul> </ul>`
  * To add actual points or to use the list, you put `<li> </li>` In between `<ol>` and `</ol>` or `<ul>` and `</ul>`
 
+ **_Links and Images_**
+ * To create a placeholder link, you will place a `#` in the place of a link. Example: `<a href="#">Click me</a>`
+ * To create a link, you use `<a></a>`.
+  * Inside of the starting point, place `href=` or `src=`
+  * In between the starting and end point can you write down a name for the link
+  * `src` can be used for the location of the image file itself
+
  ### Challenge 1:
  The first challenge I encountered was why my lists wasn't working in HTML. Whenver I made code for a list I would do this:
 1. `<ol> HEADER `

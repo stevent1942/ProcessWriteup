@@ -71,4 +71,4 @@ Notes to Remember
 4.  `</ol>`
 
  ### Takeaway
- 
+  One takeaway I learned was even the slightest and most minor mistake in coding can cause errors and cause it not to work properly. For example, forgetting to add a closing tag can cause a list to not work as coded to. Also learned how Markdown and HTML have completely seperate ways of making text and lines of code, but both have the same use.

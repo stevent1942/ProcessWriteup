@@ -71,4 +71,4 @@ Notes to Remember
 4.  `</ol>`
 
  ### Takeaway
- One takeaway I learned was how much divs and spans can help out your code. Without divs and spans, elements will be harder to edit together and mostly will not work well or work at all. Another one is how organizing your code helps out a lot. Indenting for your code and using divs and spans all help you organize your code, making you feel less loss when doing work and cause you to create less errors and know where everything is and does.
+ 
